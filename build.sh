@@ -32,7 +32,6 @@ contracts_0_6=(
   'mocks/parseIntScientificExporter'
   'mocks/tokenWhitelistableExporter'
   'mocks/wallet'
-  'mocks/walletMock'
 )
 
 contracts_0_5=(
